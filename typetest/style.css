@@ -1,0 +1,17 @@
+/*!
+Theme Name: TypeTest v.1.0
+Theme URI:
+Author: 
+Author URI: 
+Description: 
+Version: 1.0.0
+*/
+
+img{
+	max-width: 100%
+}
+
+footer{
+    background-color: rgba(86, 61, 124, .15);
+    border: 1px solid rgba(86, 61, 124, .2);
+}
